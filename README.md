@@ -1,5 +1,9 @@
 # Sistema de Gestión de Inventario y Ventas
 
+**Asignatura:** Programación en C# (`cs-`)
+
+---
+
 Aplicación de escritorio desarrollada en C# con Windows Forms para la gestión y almacenamiento temporal de productos en memoria. 
 
 ## Arquitectura del Sistema
